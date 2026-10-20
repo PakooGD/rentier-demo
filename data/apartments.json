@@ -1,0 +1,1826 @@
+[
+{
+  "id": 1742420,
+  "title": "1-комнатная квартира",
+  "address": "Минск, Веры Хоружей улица, 5Б",
+  "lat": 53.916796,
+  "lng": 27.577058,
+  "price": null,
+  "rooms": 1,
+  "area": 34,
+  "floor": 3,
+  "floors_total": 5,
+  "description": "",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Евроремонт",
+  "view": "Во двор, На сад",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "bath",
+      "label": "1 ванная комната с туалетом",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "shower",
+      "label": "Душ",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_cctv",
+      "label": "Нет видеонаблюдения",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "washer",
+      "label": "Стиральная машина",
+      "category": "bathroom"
+    },
+    {
+      "slug": "wifi",
+      "label": "Беспроводной интернет wi-fi",
+      "category": "basic"
+    },
+    {
+      "slug": "dryer",
+      "label": "Сушилка для белья",
+      "category": "basic"
+    },
+    {
+      "slug": "heating",
+      "label": "Центральное отопление",
+      "category": "basic"
+    },
+    {
+      "slug": "iron",
+      "label": "Утюг с гладильной доской",
+      "category": "basic"
+    },
+    {
+      "slug": "water_heater",
+      "label": "Водонагреватель",
+      "category": "basic"
+    },
+    {
+      "slug": "balcony",
+      "label": "Балкон / лоджия",
+      "category": "basic"
+    },
+    {
+      "slug": "steel_door",
+      "label": "Металлическая дверь",
+      "category": "basic"
+    },
+    {
+      "slug": "intercom",
+      "label": "Домофон",
+      "category": "basic"
+    },
+    {
+      "slug": "wardrobe",
+      "label": "Шкаф",
+      "category": "basic"
+    },
+    {
+      "slug": "tiled_floor",
+      "label": "Плиточный/мраморный пол",
+      "category": "basic"
+    },
+    {
+      "slug": "cleaning_products",
+      "label": "Чистящие средства",
+      "category": "basic"
+    },
+    {
+      "slug": "laminate",
+      "label": "Ламинат",
+      "category": "basic"
+    },
+    {
+      "slug": "coffee_table",
+      "label": "Журнальный столик",
+      "category": "basic"
+    },
+    {
+      "slug": "hanger",
+      "label": "Вешалка для одежды",
+      "category": "basic"
+    },
+    {
+      "slug": "gazebo",
+      "label": "Беседка",
+      "category": "leisure"
+    },
+    {
+      "slug": "swing",
+      "label": "Детские качели",
+      "category": "leisure"
+    },
+    {
+      "slug": "playground",
+      "label": "Игровая площадка",
+      "category": "leisure"
+    },
+    {
+      "slug": "tv",
+      "label": "Телевизор",
+      "category": "basic"
+    },
+    {
+      "slug": "tv_cable",
+      "label": "Эфирное тв",
+      "category": "leisure"
+    },
+    {
+      "slug": "cinema",
+      "label": "Кинотеатр",
+      "category": "leisure"
+    },
+    {
+      "slug": "theater",
+      "label": "Театр",
+      "category": "leisure"
+    },
+    {
+      "slug": "nightclub",
+      "label": "Ночной клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "spa",
+      "label": "Spa-центр",
+      "category": "leisure"
+    },
+    {
+      "slug": "billiards",
+      "label": "Бильярдный клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "bowling",
+      "label": "Боулинг",
+      "category": "leisure"
+    },
+    {
+      "slug": "amusement_park",
+      "label": "Парк аттракционов",
+      "category": "leisure"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Отдельная кухня",
+      "category": "kitchen"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/742/420/1020x690/674ffebff26a3.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/1020x690/674ffebff26a3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebff26a3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674fff71072d3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebfa0ebb.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebf2f331.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674fff712e891.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebf541b1.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebfcb817.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674fff70adb57.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674fff70d4f84.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/742/420/674ffebf06267.jpeg"
+  ]
+},
+{
+  "id": 1743399,
+  "title": "Квартира в центре около метро академия наук",
+  "address": "Минск, Кузьмы Чорного улица, 8А",
+  "lat": 53.924935,
+  "lng": 27.601474,
+  "price": null,
+  "rooms": 1,
+  "area": 35,
+  "floor": 1,
+  "floors_total": 4,
+  "description": "Квартира расположена в центре города около метро академия наук 3 минуты пешком. Зелёный район. Рядом есть бары и рестораны, казино. В квартире всё есть для проживания.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "Во двор, На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "13:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "yes",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "working-table",
+      "label": "Рабочий стол",
+      "category": "basic"
+    },
+    {
+      "slug": "wardrobe",
+      "label": "Шкаф",
+      "category": "basic"
+    },
+    {
+      "slug": "tv",
+      "label": "Телевизор",
+      "category": "basic"
+    },
+    {
+      "slug": "blackout",
+      "label": "Блэкаут шторы",
+      "category": "basic"
+    },
+    {
+      "slug": "ac",
+      "label": "Кондиционер",
+      "category": "basic"
+    },
+    {
+      "slug": "wifi",
+      "label": "Беспроводной интернет Wi-Fi",
+      "category": "basic"
+    },
+    {
+      "slug": "stove",
+      "label": "Газовая плита",
+      "category": "kitchen"
+    },
+    {
+      "slug": "oven",
+      "label": "Духовка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "microwave",
+      "label": "Микроволновка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "dishes",
+      "label": "Посуда и принадлежности",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kettle",
+      "label": "Электрический чайник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "fridge",
+      "label": "Холодильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "freezer",
+      "label": "Морозильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "table",
+      "label": "Обеденный стол",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната с туалетом",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "bath-cleaners",
+      "label": "Туалетные принадлежности",
+      "category": "bathroom"
+    },
+    {
+      "slug": "shower",
+      "label": "Душ",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_cctv",
+      "label": "Нет видеонаблюдения",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Отдельная кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    },
+    {
+      "slug": "cinema",
+      "label": "Кинотеатр",
+      "category": "leisure"
+    },
+    {
+      "slug": "theater",
+      "label": "Театр",
+      "category": "leisure"
+    },
+    {
+      "slug": "nightclub",
+      "label": "Ночной клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "spa",
+      "label": "Spa-центр",
+      "category": "leisure"
+    },
+    {
+      "slug": "bowling",
+      "label": "Боулинг",
+      "category": "leisure"
+    },
+    {
+      "slug": "bike_rent",
+      "label": "Прокат велосипедов",
+      "category": "leisure"
+    },
+    {
+      "slug": "amusement_park",
+      "label": "Парк аттракционов",
+      "category": "leisure"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/743/399/1024x546/6628bd299c60b.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/1024x546/6628bd299c60b.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/1024x546/6628bd29bafbd.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/1024x546/6628bd29d28c6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd299c60b.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd29bafbd.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd29d28c6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd29e698f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd2a07927.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd2a1de94.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd2a352f5.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/399/6628bd2a4d909.jpeg"
+  ]
+},
+{
+  "id": 1743898,
+  "title": "1-комнатная квартира",
+  "address": "Минск, Гвардейская улица, 1А",
+  "lat": 53.91242,
+  "lng": 27.529716,
+  "price": null,
+  "rooms": 1,
+  "area": 35,
+  "floor": 1,
+  "floors_total": 6,
+  "description": "1 -к квартира на 4 чел. В центре Минска. Тихий спокойный район. Рядом метро 10 минут. В квартире есть вай фай, свч, жк телевизор, постельное бельё. Бары, казино, ночные клубы рядом. Парк победы 5 минут. Отчётные документы выдаём.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "Во двор, На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "13:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "yes",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "stove",
+      "label": "Газовая плита",
+      "category": "kitchen"
+    },
+    {
+      "slug": "oven",
+      "label": "Духовка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "microwave",
+      "label": "Микроволновка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "dishes",
+      "label": "Посуда и принадлежности",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kettle",
+      "label": "Электрический чайник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "fridge",
+      "label": "Холодильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "table",
+      "label": "Обеденный стол",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната с туалетом",
+      "category": "bathroom"
+    },
+    {
+      "slug": "bath_tub",
+      "label": "Ванная",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_cctv",
+      "label": "Есть видеонаблюдение",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Отдельная кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    },{
+      "slug": "cinema",
+      "label": "Кинотеатр",
+      "category": "leisure"
+    },
+    {
+      "slug": "theater",
+      "label": "Театр",
+      "category": "leisure"
+    },
+    {
+      "slug": "spa",
+      "label": "Spa-центр",
+      "category": "leisure"
+    },
+    {
+      "slug": "billiards",
+      "label": "Бильярдный клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "bathhouse",
+      "label": "баня",
+      "category": "leisure"
+    },
+    {
+      "slug": "ice_rink",
+      "label": "Каток",
+      "category": "leisure"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/743/898/1024x546/675181a2ca3f1.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/1024x546/675181a2ca3f1.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/1024x546/67501f26e6512.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/1024x546/67501f274b486.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a2ca3f1.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/67501f26e6512.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/67501f274b486.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/67501f276fe84.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a2f3a65.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a356d42.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a397cdc.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a438967.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a329606.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/743/898/675181a4adf6c.jpeg"
+  ]
+},
+{
+  "id": 1754995,
+  "title": "Однокомнатная квартира  с новым ремонтом",
+  "address": "Минск, Леонида Левина улица, 1",
+  "lat": 53.869136,
+  "lng": 27.534927,
+  "price": null,
+  "rooms": 1,
+  "area": 35,
+  "floor": 21,
+  "floors_total": 21,
+  "description": "Однокомнатная квартира на 4хчеловек с новым современным ремонтом. В центре Минска. Рядом метро 10 минут. В квартире есть большая двухспальная кровать, двухспальный диван на 2 человека, жк телевизор, посуда, постельное бельё, вай-фай. Рядом кафе магазины. Тёплая очень уютная квартира.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Дизайнерский",
+  "view": "Во двор, На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "13:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "yes",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "stove",
+      "label": "Электроплита",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking_cctv",
+      "label": "Есть видеонаблюдение",
+      "category": "parking"
+    },
+    {
+      "slug": "dishes",
+      "label": "Посуда и принадлежности",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kettle",
+      "label": "Электрический чайник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "fridge",
+      "label": "Холодильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "table",
+      "label": "Обеденный стол",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната с туалетом",
+      "category": "bathroom"
+    },
+    {
+      "slug": "elevator",
+      "label": "Лифт",
+      "category": "basic"
+    },
+    {
+      "slug": "bath_tub",
+      "label": "Ванная",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    }, {
+      "slug": "cinema",
+      "label": "Кинотеатр",
+      "category": "leisure"
+    },
+    {
+      "slug": "nightclub",
+      "label": "Ночной клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "spa",
+      "label": "Spa-центр",
+      "category": "leisure"
+    },
+    {
+      "slug": "billiards",
+      "label": "Бильярдный клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "bolling",
+      "label": "Боулинг",
+      "category": "leisure"
+    },
+    {
+      "slug": "bathhouse",
+      "label": "баня",
+      "category": "leisure"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/754/995/1024x546/67402e1fcb202.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/1024x546/67402e1fcb202.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/1024x546/67402e1fdf01a.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/1024x546/6639f853247a9.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e1fcb202.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e1fdf01a.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/6639f853247a9.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e2002746.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e201a532.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e202fd11.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e204bbf0.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e20634c2.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e2078a0b.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/754/995/67402e208bfd0.jpeg"
+  ]
+},
+{
+  "id": 1915261,
+  "title": "Однокомнатная квартира в центре Минска",
+  "address": "Минск, Леонида Левина улица, 1",
+  "lat": 53.869136,
+  "lng": 27.534927,
+  "price": null,
+  "rooms": 1,
+  "area": 35,
+  "floor": 21,
+  "floors_total": 21,
+  "description": "Однокомнатная квартира с современным ремонтом в центре г. Минска. Спальные места 2+2 (двуспальный диван и двуспальная кровать ). В квартире имеется жк телевизор со смартом, холодильник, вай фай, посуда, электро чайник, чистое бельё. Этаж 21, входная дверь железная звукоизоляционная. Большой гардероб, водо электро нагреватель. Рядом есть большой магазин ‘ тц, казино, ночные клубы. Тихий район. Услуга уборки по вашей просьбе бесплатно. Будем рады видеть вас.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Дизайнерский",
+  "view": "Во двор, На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "13:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "no",
+  "children_allowed": "yes",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "stove",
+      "label": "Электроплита",
+      "category": "kitchen"
+    },
+    {
+      "slug": "dishes",
+      "label": "Посуда и принадлежности",
+      "category": "kitchen"
+    },
+    {
+      "slug": "freezer",
+      "label": "Морозильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kitchen_set",
+      "label": "Кухонный гарнитур",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kettle",
+      "label": "Электрический чайник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "fridge",
+      "label": "Холодильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "table",
+      "label": "Обеденный стол",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната с туалетом",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "bath_tub",
+      "label": "Ванная",
+      "category": "bathroom"
+    },
+    {
+      "slug": "shower",
+      "label": "Душ",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_cctv",
+      "label": "Нет видеонаблюдения",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    },
+    {
+      "slug": "cinema",
+      "label": "Кинотеатр",
+      "category": "leisure"
+    },
+    {
+      "slug": "theater",
+      "label": "Театр",
+      "category": "leisure"
+    },
+    {
+      "slug": "nightclub",
+      "label": "Ночной клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "billiards",
+      "label": "Бильярдный клуб",
+      "category": "leisure"
+    },
+    {
+      "slug": "bolling",
+      "label": "Боулинг",
+      "category": "leisure"
+    },
+    {
+      "slug": "bathhouse",
+      "label": "баня",
+      "category": "leisure"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/915/261/1024x546/673ccf2eade07.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/1024x546/673ccf2eade07.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/1024x546/673ccf2d0edc1.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/1024x546/673ccf2d341e3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2eade07.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d0edc1.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d341e3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d47f67.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d5ddd3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d74b1d.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2d8b4c8.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2dabc84.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2dcc88d.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/915/261/673ccf2dedb39.jpeg"
+  ]
+},
+{
+  "id": 1917418,
+  "title": "2-х комнатный апартамент в частном доме, 7 километров от Минска",
+  "address": "Минск, Колодищи агрогородок, Пушкина улица, 34",
+  "lat": 53.945940796912,
+  "lng": 27.781947946347,
+  "price": null,
+  "rooms": 2,
+  "area": 65,
+  "floor": 1,
+  "floors_total": 1,
+  "description": "7 километров от Минска  частный дом в нём Двухкомнатные апартаменты с прилегающей частной территорией 5 соток, на которой есть парковка, мангал. Шатер-беседка, казан для плова. В доме имеется: большой гардероб, двуспальный диван, двуспальная большая кровать. В каждой комнате есть телевизоры smart TV. На кухне: посудомоечная машина, духовой шкаф, электропанель, холодильник, посуда, чайник, СВЧ. Идеальная чистота.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Евроремонт",
+  "view": "Во двор",
+  "parking": "Бесплатная, Открытая, Частная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "no",
+  "children_allowed": "yes",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_cctv",
+      "label": "Нет видеонаблюдения",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "private_parking",
+      "label": "Частная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Отдельная кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/917/418/1024x546/673cdaf047252.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/1024x546/673cdaf047252.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/1024x546/673cdaefc8ae3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/1024x546/673cdaeff234f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf047252.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaefc8ae3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaeff234f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf014a60.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf031aa5.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf065846.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf080e98.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf099503.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf0ad0d2.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/917/418/673cdaf0c3279.jpeg"
+  ]
+},
+{
+  "id": 1922550,
+  "title": "3-комнатная квартира",
+  "address": "Минск, Янки Купалы улица, 17",
+  "lat": 53.903519999996,
+  "lng": 27.56696,
+  "price": null,
+  "rooms": 3,
+  "area": 80,
+  "floor": 4,
+  "floors_total": 6,
+  "description": "Самый центр Минска октябрьская площадь. 3-х комнатная квартира на 6 человек. Ул. Янки Купалы 17., исторический центр, тихий двор, новый ремонт, три комнаты изолированные, две двуспальные кровати и диван двуспальный, кондиционер, стиральная машина, свч, электро чайник. Есть всё для проживания. От центральной новогодней ёлки 3 минуты ходьбы, до метро 4 минуты.",
+  "max_guests": 6,
+  "bedrooms": 2,
+  "beds": 3,
+  "main_sleeping_places": 6,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Евроремонт",
+  "view": "На достопримечательность, На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "no",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 2
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    { "slug": "linen", "label": "Постельное белье", "category": "basic" },
+    { "slug": "washer", "label": "Стиральная машина", "category": "bathroom" },
+    { "slug": "wifi", "label": "Беспроводной интернет Wi-Fi", "category": "basic" },
+    { "slug": "ac", "label": "Кондиционер", "category": "basic" },
+    { "slug": "dryer", "label": "Сушилка для белья", "category": "basic" },
+    { "slug": "heating", "label": "Центральное отопление", "category": "basic" },
+    { "slug": "iron", "label": "Утюг с гладильной доской", "category": "basic" },
+    { "slug": "water_heater", "label": "Водонагреватель", "category": "basic" },
+    { "slug": "steel_door", "label": "Металлическая дверь", "category": "basic" },
+    { "slug": "intercom", "label": "Домофон", "category": "basic" },
+    { "slug": "wardrobe", "label": "Шкаф", "category": "basic" },
+    { "slug": "wardrobe_room", "label": "Гардеробная", "category": "basic" },
+    { "slug": "soundproof", "label": "Звукоизоляция", "category": "basic" },
+    { "slug": "parquet", "label": "Деревянный/паркетный пол", "category": "basic" },
+    { "slug": "laptop", "label": "Рабочий стол", "category": "basic" },
+    { "slug": "cleaning_products", "label": "Чистящие средства", "category": "basic" },
+    { "slug": "coffee_table", "label": "Журнальный столик", "category": "basic" },
+    { "slug": "hanger", "label": "Вешалка для одежды", "category": "basic" },
+    { "slug": "blackout", "label": "Шторы блэкаут", "category": "basic" },
+    { "slug": "tv", "label": "Телевизор", "category": "basic" },
+    { "slug": "books", "label": "Книги", "category": "leisure" },
+    { "slug": "tv_cable", "label": "Кабельное ТВ", "category": "leisure" },
+    { "slug": "smart_tv", "label": "Смарт ТВ", "category": "leisure" },
+    { "slug": "cinema", "label": "Кинотеатр", "category": "leisure" },
+    { "slug": "theater", "label": "Театр", "category": "leisure" },
+    { "slug": "nightclub", "label": "Ночной клуб", "category": "leisure" },
+    { "slug": "spa", "label": "SPA-центр", "category": "leisure" },
+    { "slug": "billiards", "label": "Бильярдный клуб", "category": "leisure" },
+    { "slug": "bowling", "label": "Боулинг", "category": "leisure" },
+    { "slug": "sauna", "label": "Баня", "category": "leisure" },
+    { "slug": "amusement_park", "label": "Парк аттракционов", "category": "leisure" },
+    { "slug": "elevator", "label": "Лифт", "category": "basic" },
+    {
+      "slug": "stove",
+      "label": "Газовая плита",
+      "category": "kitchen"
+    },
+    {
+      "slug": "oven",
+      "label": "Духовка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kitchen_set",
+      "label": "Кухонный гарнитур",
+      "category": "kitchen"
+    },
+    {
+      "slug": "freezer",
+      "label": "Морозильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "water_filter",
+      "label": "Фильтр для воды",
+      "category": "kitchen"
+    },
+    {
+      "slug": "microwave",
+      "label": "Микроволновка",
+      "category": "kitchen"
+    },
+    {
+      "slug": "dishes",
+      "label": "Посуда и принадлежности",
+      "category": "kitchen"
+    },
+    {
+      "slug": "kettle",
+      "label": "Электрический чайник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "fridge",
+      "label": "Холодильник",
+      "category": "kitchen"
+    },
+    {
+      "slug": "table",
+      "label": "Обеденный стол",
+      "category": "kitchen"
+    },
+    {
+      "slug": "bath",
+      "label": "1 ванная комната",
+      "category": "bathroom"
+    },
+    {
+      "slug": "toilet",
+      "label": "1 туалет",
+      "category": "bathroom"
+    },
+    {
+      "slug": "towel",
+      "label": "Полотенца",
+      "category": "bathroom"
+    },
+    {
+      "slug": "hairdryer",
+      "label": "Фен",
+      "category": "bathroom"
+    },
+    {
+      "slug": "shower",
+      "label": "Душ",
+      "category": "bathroom"
+    },
+    {
+      "slug": "bath_tub",
+      "label": "Ванная",
+      "category": "bathroom"
+    },
+    {
+      "slug": "parking_open",
+      "label": "Открытая",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_public",
+      "label": "Общественная",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_not_fenced",
+      "label": "Не огорожена",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_cctv",
+      "label": "Нет видеонаблюдения",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_no_security",
+      "label": "Нет охраны",
+      "category": "parking"
+    },
+    {
+      "slug": "parking_on_site",
+      "label": "На территории объекта",
+      "category": "parking"
+    },
+    {
+      "slug": "kitchen",
+      "label": "Отдельная кухня",
+      "category": "kitchen"
+    },
+    {
+      "slug": "parking",
+      "label": "Бесплатная парковка",
+      "category": "parking"
+    }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/922/550/1024x546/674762593934f.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/1024x546/674762593934f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/1024x546/674762596007f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/1024x546/67476258f38aa.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/674762593934f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/674762596007f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/67476258f38aa.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/67476258debd3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/6747625910e99.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/674762592217f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/67476258caaa7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/6747625875bc3.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/6747625949bbc.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/922/550/674762597316e.jpeg"
+  ]
+},
+{
+  "id": 1925176,
+  "title": "Центр 2-х комнатная квартира на 6 человек рядом с метро",
+  "address": "Минск, Цнянская улица, 13",
+  "lat": 53.923677999996,
+  "lng": 27.583247,
+  "price": null,
+  "rooms": 2,
+  "area": 60,
+  "floor": 2,
+  "floors_total": 9,
+  "description": "Центр 2-х квартира на 6 человек. Двухспальная кровать. И два дивана двухспальных. В квартире уютная, всё есть для проживания. Около метро. Рядом камаровский рынок. Магазин продуктовый 3 минуты пешком. Тихий двор.",
+  "max_guests": 6,
+  "bedrooms": 1,
+  "beds": 3,
+  "main_sleeping_places": 6,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "На город, На улицу, Во двор",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 2
+    }
+  ],
+  "amenities": [
+       { "slug": "balcony",          "label": "Балкон / Лоджия",           "category": "basic" },
+    { "slug": "wifi",             "label": "Беспроводной интернет Wi-Fi","category": "basic" },
+    { "slug": "tv",               "label": "Телевизор",                  "category": "basic" },
+    { "slug": "kettle",           "label": "Электрический чайник",       "category": "kitchen" },
+    { "slug": "hairdryer",        "label": "Фен",                        "category": "bathroom" },
+    { "slug": "microwave",        "label": "Микроволновка",              "category": "kitchen" },
+    { "slug": "laptop",           "label": "Рабочий стол",               "category": "basic" },
+    { "slug": "washer",           "label": "Стиральная машина",          "category": "bathroom" },
+    { "slug": "fridge",           "label": "Холодильник",                "category": "kitchen" },
+    { "slug": "kitchen",          "label": "Отдельная кухня",            "category": "kitchen" },
+    { "slug": "stove",            "label": "Газовая плита",              "category": "kitchen" },
+    { "slug": "oven",             "label": "Духовка",                    "category": "kitchen" },
+    { "slug": "dishes",           "label": "Посуда и принадлежности",    "category": "kitchen" },
+    { "slug": "cutlery",          "label": "Столовые приборы",           "category": "kitchen" },
+    { "slug": "freezer",          "label": "Морозильник",                "category": "kitchen" },
+    { "slug": "kitchen_set",      "label": "Кухонный гарнитур",          "category": "kitchen" },
+    { "slug": "table",            "label": "Обеденный стол",             "category": "kitchen" },
+    { "slug": "bath",             "label": "Ванна",                      "category": "bathroom" },
+    { "slug": "toilet",           "label": "1 туалет",                   "category": "bathroom" },
+    { "slug": "towel",            "label": "Полотенца",                  "category": "bathroom" },
+    { "slug": "shower",           "label": "Душ",                        "category": "bathroom" },
+    { "slug": "parking_free",     "label": "Бесплатная парковка",        "category": "parking" },
+    { "slug": "parking_open",     "label": "Открытая",                   "category": "parking" },
+    { "slug": "parking_public",   "label": "Общественная",               "category": "parking" },
+    { "slug": "parking_not_fenced","label": "Не огорожена",              "category": "parking" },
+    { "slug": "parking_no_cctv",  "label": "Нет видеонаблюдения",        "category": "parking" },
+    { "slug": "parking_no_security","label": "Нет охраны",               "category": "parking" },
+    { "slug": "parking_on_site",  "label": "На территории объекта",      "category": "parking" },
+    { "slug": "dryer",            "label": "Сушилка для белья",          "category": "basic" },
+    { "slug": "iron",             "label": "Утюг с гладильной доской",   "category": "basic" },
+    { "slug": "water_heater",     "label": "Водонагреватель",            "category": "basic" },
+    { "slug": "cleaning_products","label": "Чистящие средства",          "category": "basic" },
+    { "slug": "laminate",         "label": "Ламинат",                    "category": "basic" },
+    { "slug": "coffee_table",     "label": "Журнальный столик",          "category": "basic" },
+    { "slug": "tv_cable",         "label": "Кабельное ТВ",               "category": "leisure" },
+    { "slug": "cinema",           "label": "Кинотеатр",                  "category": "leisure" },
+    { "slug": "theater",          "label": "Театр",                      "category": "leisure" },
+    { "slug": "nightclub",        "label": "Ночной клуб",                "category": "leisure" },
+    { "slug": "spa",              "label": "SPA-центр",                  "category": "leisure" },
+    { "slug": "zoo",              "label": "Зоопарк",                    "category": "leisure" },
+    { "slug": "amusement_park",   "label": "Парк аттракционов",          "category": "leisure" },
+    { "slug": "water_sports",     "label": "Водные виды спорта",         "category": "leisure" }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/925/176/1024x546/674d9fe7353be.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/1024x546/674d9fe7353be.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/1024x546/674d6ee9a0549.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/1024x546/674d6ee9705a6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d9fe7353be.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d6ee9a0549.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d6ee9705a6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d9fe6f324e.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d9fe7541eb.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674d9fe78ff47.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/176/674ec459507e1.jpeg"
+  ]
+},
+{
+  "id": 1925816,
+  "title": "Уютная однокомнатная квартира в тихом центре",
+  "address": "Минск, Сурганова улица, 57",
+  "lat": 53.929234545747,
+  "lng": 27.579357947083,
+  "price": null,
+  "rooms": 1,
+  "area": 32,
+  "floor": 9,
+  "floors_total": 9,
+  "description": "Центр. Однокомнатная квартира на 4 человека. Всё есть для проживания. Рядом тц европа, магазин продуктовый. Метро Академия наук.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "На город, Во двор",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+        { "slug": "tv",               "label": "Телевизор",                   "category": "basic" },
+    { "slug": "kettle",           "label": "Электрический чайник",        "category": "kitchen" },
+    { "slug": "hairdryer",        "label": "Фен",                         "category": "bathroom" },
+    { "slug": "microwave",        "label": "Микроволновка",               "category": "kitchen" },
+    { "slug": "laptop",           "label": "Рабочий стол",                "category": "basic" },
+    { "slug": "fridge",           "label": "Холодильник",                 "category": "kitchen" },
+    { "slug": "kitchen",          "label": "Отдельная кухня",             "category": "kitchen" },
+    { "slug": "stove",            "label": "Газовая плита",               "category": "kitchen" },
+    { "slug": "dishes",           "label": "Посуда и принадлежности",     "category": "kitchen" },
+    { "slug": "cutlery",          "label": "Столовые приборы",            "category": "kitchen" },
+    { "slug": "freezer",          "label": "Морозильник",                 "category": "kitchen" },
+    { "slug": "kitchen_set",      "label": "Кухонный гарнитур",           "category": "kitchen" },
+    { "slug": "bath",             "label": "Ванная комната с туалетом",   "category": "bathroom" },
+    { "slug": "towel",            "label": "Полотенца",                   "category": "bathroom" },
+    { "slug": "shower",           "label": "Душ",                         "category": "bathroom" },
+    { "slug": "parking_free",     "label": "Бесплатная парковка",         "category": "parking" },
+    { "slug": "parking_open",     "label": "Открытая",                    "category": "parking" },
+    { "slug": "parking_public",   "label": "Общественная",                "category": "parking" },
+    { "slug": "parking_not_fenced","label": "Не огорожена",               "category": "parking" },
+    { "slug": "parking_no_cctv",  "label": "Нет видеонаблюдения",         "category": "parking" },
+    { "slug": "parking_no_security","label": "Нет охраны",                "category": "parking" },
+    { "slug": "parking_on_site",  "label": "На территории объекта",       "category": "parking" },
+    { "slug": "linen",            "label": "Постельное белье",            "category": "basic" },
+    { "slug": "iron",             "label": "Утюг с гладильной доской",    "category": "basic" },
+    { "slug": "steel_door",       "label": "Металлическая дверь",         "category": "basic" },
+    { "slug": "parquet",          "label": "Деревянный/паркетный пол",    "category": "basic" },
+    { "slug": "coffee_table",     "label": "Журнальный столик",           "category": "basic" },
+    { "slug": "tv_free",          "label": "Эфирное ТВ",                  "category": "leisure" },
+    { "slug": "tv_cable",         "label": "Кабельное ТВ",                "category": "leisure" },
+    { "slug": "cinema",           "label": "Кинотеатр",                   "category": "leisure" },
+    { "slug": "theater",          "label": "Театр",                       "category": "leisure" },
+    { "slug": "nightclub",        "label": "Ночной клуб",                 "category": "leisure" },
+    { "slug": "spa",              "label": "SPA-центр",                   "category": "leisure" },
+    { "slug": "billiards",        "label": "Бильярдный клуб",             "category": "leisure" },
+    { "slug": "bowling",          "label": "Боулинг",                     "category": "leisure" },
+    { "slug": "sauna",            "label": "Баня",                        "category": "leisure" },
+    { "slug": "water_sports",     "label": "Водные виды спорта",          "category": "leisure" },
+    { "slug": "elevator",         "label": "Лифт",                        "category": "basic" }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/925/816/1024x546/674e2dc68b682.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/1024x546/674e2dc68b682.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/1024x546/674e2dc5bd245.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/1024x546/674e2dc5d8cb7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/674e2dc68b682.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/674e2dc5bd245.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/674e2dc5d8cb7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/674e2dc5ee088.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/925/816/674e2dc612d50.jpeg"
+  ]
+},
+{
+  "id": 1926723,
+  "title": "1-комнатная квартира",
+  "address": "Минск, Золотая Горка улица, 13",
+  "lat": 53.912219,
+  "lng": 27.584514,
+  "price": null,
+  "rooms": 1,
+  "area": 32,
+  "floor": 2,
+  "floors_total": 5,
+  "description": "Центр, от метро 3 минуты. 1-комнатная квартира. Рядом ЦУМ, рынок Комаровский, казино, магазины продуктовые, кафе — всё рядом. В квартире всё есть для проживания. Тихий двор.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+     { "slug": "balcony",           "label": "Балкон / Лоджия",             "category": "basic" },
+    { "slug": "wifi",              "label": "Беспроводной интернет Wi-Fi", "category": "basic" },
+    { "slug": "tv",                "label": "Телевизор",                   "category": "basic" },
+    { "slug": "kettle",            "label": "Электрический чайник",        "category": "kitchen" },
+    { "slug": "hairdryer",         "label": "Фен",                         "category": "bathroom" },
+    { "slug": "microwave",         "label": "Микроволновка",               "category": "kitchen" },
+    { "slug": "laptop",            "label": "Рабочий стол",                "category": "basic" },
+    { "slug": "washer",            "label": "Стиральная машина",           "category": "bathroom" },
+    { "slug": "wardrobe",          "label": "Шкаф",                        "category": "basic" },
+    { "slug": "fridge",            "label": "Холодильник",                 "category": "kitchen" },
+    { "slug": "kitchen",           "label": "Отдельная кухня",             "category": "kitchen" },
+    { "slug": "stove",             "label": "Газовая плита",               "category": "kitchen" },
+    { "slug": "oven",              "label": "Духовка",                     "category": "kitchen" },
+    { "slug": "dishes",            "label": "Посуда и принадлежности",     "category": "kitchen" },
+    { "slug": "cutlery",           "label": "Столовые приборы",            "category": "kitchen" },
+    { "slug": "freezer",           "label": "Морозильник",                 "category": "kitchen" },
+    { "slug": "kitchen_set",       "label": "Кухонный гарнитур",           "category": "kitchen" },
+    { "slug": "table",             "label": "Обеденный стол",              "category": "kitchen" },
+    { "slug": "bath",              "label": "Ванна",                       "category": "bathroom" },
+    { "slug": "toilet",            "label": "Санузел с туалетом",          "category": "bathroom" },
+    { "slug": "towel",             "label": "Полотенца",                   "category": "bathroom" },
+    { "slug": "shower",            "label": "Душ",                         "category": "bathroom" },
+    { "slug": "parking_free",      "label": "Бесплатная парковка",         "category": "parking" },
+    { "slug": "parking_open",      "label": "Открытая",                    "category": "parking" },
+    { "slug": "parking_public",    "label": "Общественная",                "category": "parking" },
+    { "slug": "parking_not_fenced", "label": "Не огорожена",               "category": "parking" },
+    { "slug": "parking_no_cctv",   "label": "Нет видеонаблюдения",         "category": "parking" },
+    { "slug": "parking_no_security", "label": "Нет охраны",                "category": "parking" },
+    { "slug": "parking_on_site",   "label": "На территории объекта",       "category": "parking" },
+    { "slug": "linen",             "label": "Постельное белье",            "category": "basic" },
+    { "slug": "iron",              "label": "Утюг с гладильной доской",    "category": "basic" },
+    { "slug": "steel_door",        "label": "Металлическая дверь",         "category": "basic" },
+    { "slug": "laminate",          "label": "Ламинат",                     "category": "basic" },
+    { "slug": "hanger",            "label": "Вешалка для одежды",          "category": "basic" },
+    { "slug": "tv_free",           "label": "Эфирное ТВ",                  "category": "leisure" },
+    { "slug": "tv_cable",          "label": "Кабельное ТВ",                "category": "leisure" }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/926/723/1024x546/67501386de2c6.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/1024x546/67501386de2c6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/1024x546/675013867bc46.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/1024x546/67501386a1289.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/67501386de2c6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/675013867bc46.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/67501386a1289.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/67501386c6c5f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/6750138705d85.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/675013871e09c.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/675013873283f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/675013874d389.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/6750139cd68f6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/926/723/67501386559e0.jpeg"
+  ]
+},
+{
+  "id": 1927639,
+  "title": "Квартира в центре у метро",
+  "address": "Минск, Калинина переулок, 4",
+  "lat": 53.92898703779061,
+  "lng": 27.60469769444257,
+  "price": null,
+  "rooms": 1,
+  "area": 32,
+  "floor": 1,
+  "floors_total": 5,
+  "description": "Центр. Метро. 1-к квартира на 4 человека. Тихий двор. Парковка рядом с домом. В квартир всё есть для проживания. Продуктовый магазин 2 минуты ходьбы.",
+  "max_guests": 4,
+  "bedrooms": 1,
+  "beds": 2,
+  "main_sleeping_places": 4,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Косметический",
+  "view": "На город, На улицу",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": false,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+    { "slug": "wifi",              "label": "Беспроводной интернет Wi-Fi", "category": "basic" },
+    { "slug": "tv",                "label": "Телевизор",                   "category": "basic" },
+    { "slug": "hairdryer",         "label": "Фен",                         "category": "bathroom" },
+    { "slug": "microwave",         "label": "Микроволновка",               "category": "kitchen" },
+    { "slug": "laptop",            "label": "Рабочий стол",                "category": "basic" },
+    { "slug": "washer",            "label": "Стиральная машина",           "category": "bathroom" },
+    { "slug": "fridge",            "label": "Холодильник",                 "category": "kitchen" },
+    { "slug": "kitchen",           "label": "Отдельная кухня",             "category": "kitchen" },
+    { "slug": "stove",             "label": "Электроплита",                "category": "kitchen" },
+    { "slug": "dishes",            "label": "Посуда и принадлежности",     "category": "kitchen" },
+    { "slug": "cutlery",           "label": "Столовые приборы",            "category": "kitchen" },
+    { "slug": "freezer",           "label": "Морозильник",                 "category": "kitchen" },
+    { "slug": "kitchen_set",       "label": "Кухонный гарнитур",           "category": "kitchen" },
+    { "slug": "table",             "label": "Обеденный стол",              "category": "kitchen" },
+    { "slug": "bath",              "label": "Ванна",                       "category": "bathroom" },
+    { "slug": "toilet",            "label": "Санузел с туалетом",          "category": "bathroom" },
+    { "slug": "towel",             "label": "Полотенца",                   "category": "bathroom" },
+    { "slug": "shower",            "label": "Душ",                         "category": "bathroom" },
+    { "slug": "parking_free",      "label": "Бесплатная парковка",         "category": "parking" },
+    { "slug": "parking_open",      "label": "Открытая",                    "category": "parking" },
+    { "slug": "parking_public",    "label": "Общественная",                "category": "parking" },
+    { "slug": "parking_not_fenced", "label": "Не огорожена",               "category": "parking" },
+    { "slug": "parking_no_cctv",   "label": "Нет видеонаблюдения",         "category": "parking" },
+    { "slug": "parking_no_security", "label": "Нет охраны",                "category": "parking" },
+    { "slug": "parking_on_site",   "label": "На территории объекта",       "category": "parking" },
+    { "slug": "linen",             "label": "Постельное белье",            "category": "basic" },
+    { "slug": "steel_door",        "label": "Металлическая дверь",         "category": "basic" },
+    { "slug": "laminate",          "label": "Ламинат",                     "category": "basic" },
+    { "slug": "coffee_table",      "label": "Журнальный столик",           "category": "basic" },
+    { "slug": "tv_cable",          "label": "Кабельное ТВ",                "category": "leisure" },
+    { "slug": "cinema",            "label": "Кинотеатр",                   "category": "leisure" },
+    { "slug": "theater",           "label": "Театр",                       "category": "leisure" },
+    { "slug": "nightclub",         "label": "Ночной клуб",                 "category": "leisure" },
+    { "slug": "spa",               "label": "SPA-центр",                   "category": "leisure" },
+    { "slug": "billiards",         "label": "Бильярдный клуб",             "category": "leisure" },
+    { "slug": "bowling",           "label": "Боулинг",                     "category": "leisure" }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/1/927/639/1024x546/6751b1f3cf46d.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/1024x546/6751b1f3cf46d.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/1024x546/6751b1f3f03b5.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/1024x546/6751b1f41c590.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f3cf46d.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f3f03b5.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f41c590.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f43d04d.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f457576.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f46fa0e.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b1f48af23.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/1/927/639/6751b24ac84cc.jpeg"
+  ]
+},
+{
+  "id": 2274535,
+  "title": "Центр рядом с ТЦ  Галерея",
+  "address": "Минск, Мелникайте улица, 8",
+  "lat": 53.908250999996,
+  "lng": 27.544008,
+  "price": null,
+  "rooms": 3,
+  "area": 75,
+  "floor": 7,
+  "floors_total": 9,
+  "description": "Центр около ТЦ Галереи. 3-х комнатная квартира комнаты раздельные. Спальные места: две двухспальные кровати, диван двухспальный, односпальный диван и диван для ребёнка. Очень тихий двор. Чистый подъезд. Три балкона. Большой жк телевизор с интернетом. На кухне для приготовления еды всё есть. Тихие соседи. Новый ремонт. Рядом находиться тц галерея, кинотеатр, былые и рестораны пешком 5 минут, так же находиться рядом продовольственный большой магазин. Речка 5 мин пешком. Всё для проживания есть. Уютная теплая комфортная квартира. Отчётные документы предоставляем для бухгалтерии.",
+  "max_guests": 7,
+  "bedrooms": 3,
+  "beds": 5,
+  "main_sleeping_places": 8,
+  "bathrooms": 1,
+  "kitchen_type": "Отдельная",
+  "repair": "Дизайнерский",
+  "view": "На город, Во двор",
+  "parking": "Бесплатная, Открытая, Общественная",
+  "check_in": "14:00",
+  "check_out": "12:00",
+  "pets_allowed": "negotiable",
+  "smoking_allowed": true,
+  "parties_allowed": "negotiable",
+  "children_allowed": "negotiable",
+  "report_docs": true,
+  "sleeping_places": [
+    {
+      "type": "single",
+      "label": "Односпальная кровать",
+      "count": 1
+    },
+    {
+      "type": "double",
+      "label": "Двуспальная кровать",
+      "count": 2
+    },
+    {
+      "type": "sofa",
+      "label": "Диван-кровать",
+      "count": 1
+    },
+    {
+      "type": "double-sofa",
+      "label": "Двуспальный диван-кровать",
+      "count": 1
+    }
+  ],
+  "amenities": [
+     { "slug": "balcony",             "label": "Балкон / Лоджия",              "category": "basic" },
+    { "slug": "wifi",                "label": "Беспроводной интернет Wi-Fi",  "category": "basic" },
+    { "slug": "kettle",              "label": "Электрический чайник",         "category": "kitchen" },
+    { "slug": "hairdryer",           "label": "Фен",                          "category": "bathroom" },
+    { "slug": "microwave",           "label": "Микроволновка",                "category": "kitchen" },
+    { "slug": "coffee_machine",      "label": "Кофемашина",                   "category": "kitchen" },
+    { "slug": "coffee_maker",        "label": "Кофеварка",                    "category": "kitchen" },
+    { "slug": "wardrobe",            "label": "Шкаф",                         "category": "basic" },
+    { "slug": "fridge",              "label": "Холодильник",                  "category": "kitchen" },
+    { "slug": "kitchen",             "label": "Отдельная кухня",              "category": "kitchen" },
+    { "slug": "stove",               "label": "Электроплита",                 "category": "kitchen" },
+    { "slug": "oven",                "label": "Духовка",                      "category": "kitchen" },
+    { "slug": "dishes",              "label": "Посуда и принадлежности",      "category": "kitchen" },
+    { "slug": "cutlery",             "label": "Столовые приборы",             "category": "kitchen" },
+    { "slug": "freezer",             "label": "Морозильник",                  "category": "kitchen" },
+    { "slug": "kitchen_set",         "label": "Кухонный гарнитур",            "category": "kitchen" },
+    { "slug": "table",               "label": "Обеденный стол",               "category": "kitchen" },
+    { "slug": "bath",                "label": "Ванна",                        "category": "bathroom" },
+    { "slug": "toilet",              "label": "Туалет",                       "category": "bathroom" },
+    { "slug": "towel",               "label": "Полотенца",                    "category": "bathroom" },
+    { "slug": "toiletries",          "label": "Туалетные принадлежности",     "category": "bathroom" },
+    { "slug": "parking_free",        "label": "Бесплатная парковка",          "category": "parking" },
+    { "slug": "parking_open",        "label": "Открытая",                     "category": "parking" },
+    { "slug": "parking_public",      "label": "Общественная",                 "category": "parking" },
+    { "slug": "parking_not_fenced",  "label": "Не огорожена",                 "category": "parking" },
+    { "slug": "parking_no_security", "label": "Нет охраны",                   "category": "parking" },
+    { "slug": "linen",               "label": "Постельное белье",             "category": "basic" },
+    { "slug": "heating",             "label": "Центральное отопление",        "category": "basic" },
+    { "slug": "iron",                "label": "Утюг с гладильной доской",     "category": "basic" },
+    { "slug": "steel_door",          "label": "Металлическая дверь",          "category": "basic" },
+    { "slug": "intercom",            "label": "Домофон",                      "category": "basic" },
+    { "slug": "parquet",             "label": "Деревянный/паркетный пол",     "category": "basic" },
+    { "slug": "cleaning_products",   "label": "Чистящие средства",            "category": "basic" },
+    { "slug": "coffee_table",        "label": "Журнальный столик",            "category": "basic" },
+    { "slug": "vacuum_cleaner",      "label": "Пылесос",                      "category": "basic" },
+    { "slug": "hanger",              "label": "Вешалка для одежды",           "category": "basic" },
+    { "slug": "tv_cable",            "label": "Кабельное ТВ",                 "category": "leisure" },
+    { "slug": "smart_tv",            "label": "Смарт ТВ",                     "category": "leisure" },
+    { "slug": "cinema",              "label": "Кинотеатр",                    "category": "leisure" },
+    { "slug": "nightclub",           "label": "Ночной клуб",                  "category": "leisure" },
+    { "slug": "spa",                 "label": "SPA-центр",                    "category": "leisure" },
+    { "slug": "billiards",           "label": "Бильярдный клуб",              "category": "leisure" },
+    { "slug": "elevator",            "label": "Лифт",                         "category": "basic" }
+  ],
+  "main_image": "https://static.sutochno.ru/doc/files/objects/2/274/535/1024x546/69cdfcd7d1b9f.jpeg",
+  "images": [
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/1024x546/69cdfcd7d1b9f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/1024x546/69cdfcd79c3e7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/1024x546/6a1a8b7a04a74.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd7d1b9f.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd79c3e7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/6a1a8b7a04a74.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/6a1a8b7a3f3d7.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/6a1a8b7a69345.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd894d91.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd77a695.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd7b6bc6.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd7ed921.jpeg",
+    "https://static.sutochno.ru/doc/files/objects/2/274/535/69cdfcd8ba890.jpeg"
+  ]
+}
+]
