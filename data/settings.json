@@ -7,15 +7,19 @@
 
   "phone": "+375 29 000-00-00",
   "email": "owner@example.com",
+
   "instagram": "https://instagram.com/",
   "telegram": "https://t.me/",
   "viber": "viber://chat?number=%2B375290000000",
   "whatsapp": "https://wa.me/375290000000",
+
   "legal_name": "ИП Гайко Александр Николаевич",
   "legal_unp": "190155997",
   "legal_address": "г. Минск, ул. Веры Хоружей, 5Б",
+
   "home_grid_limit": 8,
   "all_grid_batch_size": 12,
+  
   "contacts_phone_enabled": true,
   "contacts_email_enabled": true,
   "contacts_instagram_enabled": false,
